@@ -1,0 +1,23 @@
+@import "mystyle";
+
+.mystyle{
+  @include styles;
+}
+.test-my-layout{
+  background-color: rgba(125, 40, 193, 0.1);
+  width: 100%;
+}
+.operation-tab-layout{
+  margin-top: -60px;
+}
+
+.grid-table-margin-top{
+  margin-top: 50px;
+  margin-left: -251px;
+  padding-bottom: 27px;
+  margin-bottom: 10px;
+}
+
+.top-css-layout-nav-bar {
+  margin-top: -34px;
+}
